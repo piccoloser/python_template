@@ -1,2 +1,2 @@
-# python
-Blank template for a Python project.
+# Python Project Template
+This project template assumes you're using VS Code.
