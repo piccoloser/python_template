@@ -1,4 +1,4 @@
-"""Main entry point of program."""
+"""Main entry point of program"""
 
 
 def main():

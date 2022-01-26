@@ -1,1 +1,1 @@
-"""Functions and classes separate from core program."""
+"""Additional, nonspecific functions and classes"""
