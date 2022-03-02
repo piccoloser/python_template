@@ -7,5 +7,5 @@ def test_int():
     assert 1 == 1
 
 
-def test_tests():
+def test_imports():
     assert isinstance(constants.APP_VERSION, str)
